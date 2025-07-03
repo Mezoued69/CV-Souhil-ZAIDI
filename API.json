@@ -1,0 +1,99 @@
+"CV Souhil ZAIDI"
+{
+  "nom": "Souhil ZAIDI",
+  "contact": {
+    "telephone": "06 27 72 17 86",
+    "email": "sou.zaidi69@gmail.com",
+    "mobile": true,
+    "permis": "B"
+  },
+  "titre": "Testeur Logiciel",
+  "competences": [
+    "Sens de l'écoute",
+    "Rigueur",
+    "Sens de l’organisation",
+    "Persévérance",
+    "Résistance à la pression",
+    "Force de persuasion",
+    "Esprit d'équipe",
+    "Représentant autonome",
+    "Compétences techniques IT"
+  ],
+  "experiences_professionnelles": [
+    {
+      "poste": "Formation Testeur Logiciel",
+      "entreprise": "IT AKADEMY",
+      "periode": "Mai 2025 à ce jour",
+      "description": []
+    },
+    {
+      "poste": "Responsable d’agence",
+      "entreprise": "DREAM IMMOBILIER AGENCY",
+      "periode": "Août 2019 à juin 2024",
+      "description": [
+        "Prospection téléphonique et terrain",
+        "Prise de mandat, Offre d’achat, Négociation vendeur acquéreur",
+        "Création du cahier des charges pour le site WEB DREAM IMMOBILIER AGENCY",
+        "Installation et paramétrage Logiciel métier AC3 et de prospection TAKTIKIMMO et PIGONLINE",
+        "Suivi des statistiques négociateurs, préparation et suivi des dossiers notaires",
+        "Relation avec l’expert-comptable pour le bilan"
+      ]
+    },
+    {
+      "poste": "Chef de projet",
+      "entreprise": "EDEN VALLEY EVENEMENTIEL",
+      "periode": "Mai 2015 - Août 2019",
+      "description": [
+        "Gérer des actions de communication-événementiel",
+        "Développer un réseau de partenaires, conduire des actions de marketing ciblées",
+        "Développer des outils pour structurer l'action commerciale, création du site WEB avec WORDPRESS",
+        "Rédaction cahier des charges pour la réservation en ligne",
+        "Installation d’un SERVER Windows SERVER 2011 Small Business (paramétrage des comptes)"
+      ]
+    },
+    {
+      "poste": "Gérant",
+      "entreprise": "EIDS TEAM FRANCE",
+      "periode": "Janvier 2005 - Septembre 2014",
+      "description": [
+        "Prospection, analyse des besoins clients en matériels et logiciels et propositions de solutions adaptées",
+        "Création du cahier des charges pour installation ERP DOLLIBARR",
+        "Vente de solution de sécurité (Kaspersky, Bitdefender, SONICWALL, CIEL, EBP)",
+        "Création d’une solution ENR (Tableau blanc interactif, chariot connecté)",
+        "Réponse à des Appels d’offres (Aéroport Saint Exupéry, CTC Lyon, DRTEFP Lyon, Lycée Matinière Duchère)"
+      ]
+    },
+    {
+      "poste": "Ingénieur technico-commercial",
+      "entreprise": "MB SERVICES",
+      "periode": "Octobre 1998 – Septembre 2004",
+      "description": [
+        "Prospection, fidélisation du portefeuille clients, développement du CA BtoB",
+        "Analyse des besoins et propositions adaptées",
+        "Infogérance dans le service informatique RHODIA"
+      ]
+    }
+  ],
+  "formations": [
+    {
+      "annee": "2025",
+      "intitule": "Formation Testeur Logiciel en cours",
+      "etablissement": "IT AKADEMY"
+    },
+    {
+      "annee": "2022",
+      "intitule": "Bachelor Responsable d’affaires en immobiliers",
+      "etablissement": "SUPTERTIAIRE"
+    },
+    {
+      "annee": "1998",
+      "intitule": "Technicien en informatique et électronique industrielle",
+      "etablissement": "ORT LYON"
+    },
+    {
+      "annee": "1994",
+      "intitule": "DEA (Bac+5) Génie Des Matériaux",
+      "etablissement": "INSA DE LYON"
+    }
+  ]
+}
